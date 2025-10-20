@@ -1,0 +1,16 @@
+*5050%Ahmet Ada%23
++1000%Resim
++1040%Heykel
+*6085%Selda Naz Sahin%20
++1020%Fotografcilik
+*5090%Deniz Arslan%30
++1000%Resim
++1060%Modern Dans
+*6174%Tarik Kilic%22
++1010%Ahsap Boyama
++1030%Ebru
++1050%Seramik
+*7075%Ayse Nur Kaya Yaman%28
++1070%Tiyatro
++1080%Gitar
++1100%Piyano
